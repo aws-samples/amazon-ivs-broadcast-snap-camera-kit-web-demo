@@ -1,0 +1,32 @@
+.container {
+  width: 360px;
+  flex-shrink: 0;
+  padding: 2rem;
+  height: 100%;
+  background-color: var(--color-bg-alt);
+  border-radius: var(--radius);
+  display: none;
+  overflow-x: visible;
+  overflow-y: auto;
+}
+
+.container--open {
+  display: block;
+}
+
+.filterButton {
+  display: flex;
+}
+
+.sectionTitle {
+  font-size: 1.4rem;
+  font-family: var(--font-sans);
+  margin-bottom: 1.2rem;
+}
+
+.sectionGrid {
+  display: grid;
+  grid-template-columns: repeat(4, 6.4rem);
+  margin-bottom: 1.2rem;
+  gap: 1rem;
+}
