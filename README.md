@@ -4,7 +4,7 @@ A demo web application intended as an educational tool to demonstrate how you ca
 
 **Demo:** Visit [https://snap.ivsdemos.com/](https://snap.ivsdemos.com/) and add your channel's `ingest endpoint` and `stream key` on the settings screen.
 
-<img src="![Alt text](amazon-ivs-web-broadcast-snap.png)" alt="A web browser showing the demo application with a Snap Lens applied to a man's face." />
+<img src="amazon-ivs-web-broadcast-snap.png" alt="A web browser showing the demo application with a Snap Lens applied to a man's face." />
 
 **This project is intended for education purposes only and not for production usage.**
 
