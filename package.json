@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@snap/camera-kit": "^0.7.0",
+    "@snap/camera-kit": "^0.13.1",
     "classnames": "^2.3.2",
     "moment": "^2.29.4",
     "next": "12.1.0",
